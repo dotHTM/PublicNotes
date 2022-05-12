@@ -14,7 +14,7 @@ Dates for this chronological listing of tracks is taken from Wikipedia from the 
 | 1963-04-11   | Past Masters 1                        | 03. Thank You Girl                        |
 | 1963-08-23   | Past Masters 1                        | 04. She Loves You                         |
 | 1963-08-23   | Past Masters 1                        | 05. I'll Get You                          |
-| 1963-11-22   | With the Beatles[B]                   |                                           |
+| 1963-11-22   | With the Beatles                      |                                           |
 | 1963-11-29   | Past Masters 1                        | 06. I Want to Hold Your Hand              |
 | 1963-11-29   | Past Masters 1                        | 07. This Boy                              |
 | 1964-03-05   | Past Masters 1                        | 08. Komm, gib mir deine Hand              |
@@ -44,7 +44,7 @@ Dates for this chronological listing of tracks is taken from Wikipedia from the 
 | 1968-08-30   | Past Masters 2                        | 07. Hey Jude                              |
 | 1968-08-30   | Past Masters 2                        | 08. Revolution                            |
 | 1968-11-22   | The Beatles (The White Album)         |                                           |
-| 1969-01-17   | Yellow Submarine[D]                   |                                           |
+| 1969-01-17   | Yellow Submarine                      |                                           |
 | 1969-04-11   | Past Masters 2                        | 09. Get Back                              |
 | 1969-04-11   | Past Masters 2                        | 10. Don't Let Me Down                     |
 | 1969-05-30   | Past Masters 2                        | 11. The Ballad of John and Yoko           |
